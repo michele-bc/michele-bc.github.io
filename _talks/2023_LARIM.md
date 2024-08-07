@@ -2,7 +2,7 @@
 title: "SMARTY"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2023_LARIM
 venue: "LARIM 2023: XVII Latin American Regional IAU Meeting"
 date: 2023
 location: "Montevideo, Uruguay"
