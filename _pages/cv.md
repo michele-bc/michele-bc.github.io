@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, Universidade Federal do Rio Grande do Sul, 2025 (expected)
+* M.S. in Physics, Universidade Federal de Alagoas, 2020
+* B.S. in Physics, Universidade Federal de Alagoas, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023: Research visit to Instituto de Astrofísica de Canarias
+  * Instituto de Astrofísica de Canarias
+  * Duties includes: Work on the SMARTY project
+  * Supervisor: Alexandre Vazdekis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - To Date: PhD Research Fellowship granted by CAPES
+  * Universidade Federal do Rio Grande do Sul
+  * Project title: The influence of electron-electron interaction on Anderson and dynamic localization in low electron density systems
+  * Supervisors: Rogério Riffel and Marina Trevisan
 
 * Summer 2015: Research Assistant
   * Github University
@@ -34,12 +34,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * Portuguese (native)
+  * English (advanced)
+  * Spanish (advanced)
+  * French (intermediate)
+* Programming languages:
+  * Python (advanced)
+  * Fortran90 (advanced)
+  * c (intermediate)
+* Astronomy softwares:
+  * Starlight
+  * PFANT
+  * MESA
 
 Publications
 ======
