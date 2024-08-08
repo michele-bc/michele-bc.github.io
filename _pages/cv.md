@@ -27,10 +27,13 @@ Work experience
   * Project title: The influence of electron-electron interaction on Anderson and dynamic localization in low electron density systems
   * Supervisors: Rogério Riffel and Marina Trevisan
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023, 2024: Observing Experience
+  * SOAR Telescope
+  * TripleSpec4 (NIR), remote observing mode
+  * PI: Rogério Riffel
+  * Title of proposals:
+    * SO-SMARTY: SOar mileS Moderate resolution neAr infRared sTellar librarY
+    * Unveiling the true nature of Luminous InfraRed Galaxies
   
 Skills
 ======
@@ -46,6 +49,7 @@ Skills
 * Astronomy softwares:
   * Starlight
   * PFANT
+  * FADO
   * MESA
 
 Publications
