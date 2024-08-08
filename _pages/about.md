@@ -17,4 +17,4 @@ I am an Astrophysics PhD student at Universidade Federal do Rio Grande do Sul. I
 
 We have ensembled a near infrared (NIR) stellar library called SMARTY: The MILES moderate resolution near-infrared stellar library. We selected 31 stars of the MILES optical library, which have well-defined atmospheric parameters, and presented a broad coverage of the HR diagram. We observed the stars with the Gemini Near-IR Spectrograph (GNIRS) at the 8.1 m Gemini North telescope, with resolution of R~1300. Our goal was make SMARTY available to the community, and you can access [here](https://www.if.ufrgs.br/~riffel/smarty/).
 
-![The HR diagram for NIR stellar libraries.](/image/SMARTY.pdf "The HR diagram for NIR stellar libraries.")
+![The HR diagram for NIR stellar libraries.](/images/SMARTY.pdf "The HR diagram for NIR stellar libraries.")
