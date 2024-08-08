@@ -22,11 +22,6 @@ Work experience
   * Duties includes: Work on the SMARTY project
   * Supervisor: Alexandre Vazdekis
 
-* 2020 - To Date: PhD Research Fellowship granted by CAPES
-  * Universidade Federal do Rio Grande do Sul
-  * Project title: The influence of electron-electron interaction on Anderson and dynamic localization in low electron density systems
-  * Supervisors: Rogério Riffel and Marina Trevisan
-
 * 2023, 2024: Observing Experience
   * SOAR Telescope
   * TripleSpec4 (NIR), remote observing mode
@@ -34,6 +29,21 @@ Work experience
   * Title of proposals:
     * SO-SMARTY: SOar mileS Moderate resolution neAr infRared sTellar librarY
     * Unveiling the true nature of Luminous InfraRed Galaxies
+
+* 2020 - To Date: PhD Research Fellowship granted by CAPES
+  * Universidade Federal do Rio Grande do Sul
+  * Project title: Feeding the monsters: the effects of AGN on star formation
+  * Supervisors: Rogério Riffel and Marina Trevisan
+
+* 2018 - 2020: Masters Research Fellowship granted by CAPES
+  * Universidade Federal de Alagoas
+  * Project title: The influence of electron-electron interaction on Anderson and dynamic localization in low electron density systems
+  * Supervisors: Wandearley da Silva Dias
+
+* 2014 - 2018: Undergraduate Research Assistant Fellowship granted by FAPEAL
+  * Universidade Federal de Alagoas
+  * Project title: The influence of electron-electron interaction on Anderson localization in low electron density systems
+  * Supervisors: Wandearley da Silva Dias
   
 Skills
 ======
@@ -70,6 +80,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* 
