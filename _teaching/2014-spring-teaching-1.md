@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant at Modern Physics Laboratory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-lab
+venue: "Universidade Federal de Alagoas, Physics Institute"
+date: 2018-01-01
+location: "Maceió, AL, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted students with understanding concepts and mounting of modern physics experiments.
