@@ -82,4 +82,6 @@ Teaching
   
 Outreach
 ======
-* 
+  <ul>{% for post in site.outreach reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
