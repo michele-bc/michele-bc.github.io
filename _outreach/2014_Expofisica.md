@@ -1,7 +1,7 @@
 ---
 title: "Panelist in Expofísica 2014"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2014_Expofisica
 venue: "Universidade Federal de Alagoas"
 date: 2014-05-28
