@@ -4,7 +4,7 @@ collection: outreach
 type: "Outreach"
 permalink: /outreach/2020_LeMonde
 venue: "Le Monde Diplomatique Brasil"
-date: 2020-09-06
+date: 2020-11-06
 location: "Virtual"
 ---
 
