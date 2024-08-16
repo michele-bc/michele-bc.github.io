@@ -1,7 +1,7 @@
 ---
 title: "Wrote a chapter for the book 'Soapboxscience Maceió: science communication by women'"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2023_Soapbox_book
 venue: "Edufal"
 date: 2023-01-01
