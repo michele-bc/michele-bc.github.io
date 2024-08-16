@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Astrophysics, Universidade Federal do Rio Grande do Sul, 2025 (expected)
-* M.S. in Physics, Universidade Federal de Alagoas, 2020
+* M.S. in Condensed Matter Physics, Universidade Federal de Alagoas, 2020
 * B.S. in Physics, Universidade Federal de Alagoas, 2018
 
 Work experience
