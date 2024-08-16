@@ -1,7 +1,7 @@
 ---
 title: "Wrote the article 'Lack of space and recognition for women in science'"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2020_LeMonde
 venue: "Le Monde Diplomatique Brasil"
 date: 2020-09-06
