@@ -1,7 +1,7 @@
 ---
 title: "Participated in the event Increasing Diversity and Inclusion in Science"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2023_ICTPa
 venue: "ICTP SAIFR Unesp"
 date: 2023-09-13
