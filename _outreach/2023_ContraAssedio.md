@@ -1,7 +1,7 @@
 ---
 title: "Participated in the 1st National Seminar on Policies Against Harassment in Public Universities"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2023_ContraAssedio
 venue: "Ampare - UFRGS"
 date: 2023-05-24
