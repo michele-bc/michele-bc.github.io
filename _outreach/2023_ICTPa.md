@@ -4,7 +4,7 @@ collection: outreach
 type: "Outreach"
 permalink: /outreach/2023_ICTPa
 venue: "ICTP SAIFR Unesp"
-date: 2023-09-13
+date: 2023-11-13
 location: "São Paulo, SP, Brazil"
 ---
 
