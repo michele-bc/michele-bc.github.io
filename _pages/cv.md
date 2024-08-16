@@ -85,3 +85,9 @@ Outreach
   <ul>{% for post in site.outreach reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Schools & Workshops
+======
+  <ul>{% for post in site.schools reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
