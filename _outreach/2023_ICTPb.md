@@ -1,7 +1,7 @@
 ---
 title: "Participated in the workshop Proposals to Boost STEM Participation in Underrepresented Groups"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2023_ICTPb
 venue: "ICTP SAIFR Unesp"
 date: 2023-09-16
