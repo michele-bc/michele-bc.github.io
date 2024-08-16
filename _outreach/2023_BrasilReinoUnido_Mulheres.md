@@ -4,7 +4,7 @@ collection: outreach
 type: "Outreach"
 permalink: /outreach/2023_LARIM
 venue: "British Council"
-date: 2023-09-25
+date: 2023-11-25
 location: "Porto Alegre, RS, Brazil"
 ---
 
