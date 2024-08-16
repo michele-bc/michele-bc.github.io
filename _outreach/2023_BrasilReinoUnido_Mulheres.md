@@ -1,7 +1,7 @@
 ---
 title: "Participated in the 1st Brazil-United Kingdom Symposium on Women in Science"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2023_LARIM
 venue: "British Council"
 date: 2023-09-25
