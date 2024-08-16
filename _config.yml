@@ -215,6 +215,9 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
+  schools:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -276,6 +279,14 @@ defaults:
   - scope:
       path: ""
       type: outreach
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _schools
+  - scope:
+      path: ""
+      type: schools
     values:
       layout: talk
       author_profile: true
