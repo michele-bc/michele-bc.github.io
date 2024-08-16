@@ -1,7 +1,7 @@
 ---
 title: "Organizer of the event 'Soapbox Science Maceió'"
 collection: outreach
-type: "outreach"
+type: "Outreach"
 permalink: /outreach/2020_Soapbox
 venue: "Universidade Federal de Alagoas"
 date: 2020-01-01
