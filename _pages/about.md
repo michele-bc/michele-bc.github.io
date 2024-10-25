@@ -14,10 +14,11 @@ redirect_from:
 <div align="justify">
 
 Hi there!  
-
+  
 I am an Astrophysics PhD candidate at Universidade Federal do Rio Grande do Sul. I work with trying to understand the interplay between Active Galactic Nuclei activity and circumnuclear star formation via near-infrared spectral synthesis. But I am also very interested in the Extragalactic/Galactic interface to better understand the observational and theoretical constraints underlying the spectral synthesis.  
 
 </div>
+  
 
 I am actively involved in women in science and outreach projects. I maintain two websites (both are in Portuguese):  
 
