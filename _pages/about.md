@@ -32,13 +32,18 @@ I am actively involved in women in science and outreach projects. I maintain two
   
 ---
 
+  
 **SMARTY**
+
 
 <div align="justify">
 
 SMARTY is our near-infrared (NIR) stellar library, an acronym for the MILES Moderate Resolution Near-Infrared Stellar Library. We selected 31 stars from the MILES optical library (which have well-defined atmospheric parameters) and provide broad coverage of the HR diagram. We observed the stars with the Gemini Near-IR Spectrograph (GNIRS) at the 8.1 m Gemini North telescope, achieving a resolution of R ~ 1300. Ground observations in the NIR are very challenging because most of the Earth's atmospheric emissions are located in these wavelengths, so delivering reliable spectra requires a lot of procedures. For SMARTY, we applied different methods to ensure good-quality spectra, and we made them available to the community. You can access it [here](https://www.if.ufrgs.br/~riffel/smarty/)!
-
+ 
+ 
 </div>
 
+
+  
 ![The HR diagram for NIR stellar libraries.](/images/SMARTY-HR.jpg "The HR diagram for NIR stellar libraries.")
 
