@@ -10,22 +10,25 @@ redirect_from:
 
 <img src="/images/eu-RASAB2024.jpg" alt="Me at RASAB in Águas de Lindóia, São Paulo, Brazil (2024)." width="50%" height="50%">
   
-
+  
 <div align="justify">
 
-Hi there!  
-
-  
+Hi there!     
+     
+      
 I am an Astrophysics PhD candidate at Universidade Federal do Rio Grande do Sul. I work with trying to understand the interplay between Active Galactic Nuclei activity and circumnuclear star formation via near-infrared spectral synthesis. But I am also very interested in the Extragalactic/Galactic interface to better understand the observational and theoretical constraints underlying the spectral synthesis.  
 
 </div>
+
+  
+---
   
   
 I am actively involved in women in science and outreach projects. I maintain two websites (both are in Portuguese):  
 
 - **[Mulheres em Astro & Física](https://michele-bc.github.io/mulheres-astroefisica/) (Women in Astro & Physics)**, which features a collection of women who have made significant contributions to physics and astronomy/astrophysics, aimed at being incorporated into classroom discussions.  
 - **[Estudos de Astro](https://sites.google.com/view/estudos-de-astrofisica) (Astro Studies)**, which includes my study notes, class assignments, and annotations for the courses I have prepared.
-
+  
   
 ---
 
