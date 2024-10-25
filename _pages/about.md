@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
 ![Me at RASAB in Águas de Lindóia, São Paulo, Brazil (2024).](/images/eu-RASAB2024.jpg "Me at RASAB in Águas de Lindóia, São Paulo, Brazil (2024).")
+
 
 <div align="justify">
 
