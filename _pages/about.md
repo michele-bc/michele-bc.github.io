@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="/images/eu-RASAB2024.jpg" alt="Me at RASAB in Águas de Lindóia, São Paulo, Brazil (2024)." width="50%" height="50%">
+<img src="/images/eu-RASAB2024.jpg" alt="Me at RASAB in Águas de Lindóia, São Paulo, Brazil (2024)." width="80%" height="80%">
   
 
 Hi there!     
