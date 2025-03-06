@@ -29,8 +29,13 @@ Work experience
   * Title of proposals:
     * SO-SMARTY: SOar mileS Moderate resolution neAr infRared sTellar librarY
     * Unveiling the true nature of Luminous InfraRed Galaxies
+   
+* 2025 - To Date: Postdoctoral Research Fellowship granted by CAPES
+  * Universidade de São Paulo
+  * Project title: The effect of synthetic versus empirical stellar libraries on stellar populations in the near infrared
+  * Supervisor: Paula R. T. Coelho
 
-* 2020 - To Date: PhD Research Fellowship granted by CAPES
+* 2020 - 2025: PhD Research Fellowship granted by CAPES
   * Universidade Federal do Rio Grande do Sul
   * Project title: Feeding the monsters: the effects of AGN on star formation
   * Supervisors: Rogério Riffel and Marina Trevisan
