@@ -17,7 +17,7 @@ Hi there!
 <div align="justify">
      
       
-I am an Astrophysics PhD candidate at Universidade Federal do Rio Grande do Sul. I work with trying to understand the interplay between Active Galactic Nuclei activity and circumnuclear star formation via near-infrared spectral synthesis. But I am also very interested in the Extragalactic/Galactic interface to better understand the observational and theoretical constraints underlying the spectral synthesis.  
+I am a postdoctoral researcher at Universidade de São Paulo. I work with trying to understand the interplay between Active Galactic Nuclei activity and circumnuclear star formation via near-infrared spectral synthesis. But I am also very interested in the Extragalactic/Galactic interface to better understand the observational and theoretical constraints underlying the spectral synthesis.  
 
 </div>
 
