@@ -5,12 +5,6 @@ permalink: /supervisions/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.supervisions %}
-  ### [{{ post.title }}]({{ post.url }})
-  **Type:** {{ post.type }} | **Institution:** {{ post.venue }}  
-  *{{ post.excerpt | strip_html }}*
-
-  ---
+{% for post in site.supervisions reversed %}
+  {% include archive-single-talk.html %}
 {% endfor %}
