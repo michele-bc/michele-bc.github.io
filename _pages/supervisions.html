@@ -5,6 +5,15 @@ permalink: /supervisions/
 author_profile: true
 ---
 
-{% for post in site.supervisions reversed %}
-  {% include archive-single-talk.html %}
+<style>
+  /* Esconde a linha que exibe "Published" na listagem de supervisões */
+  .page__date, .archive__item-excerpt + p {
+    display: none !important;
+  }
+</style>
+
+{% include base_path %}
+
+{% for post in site.supervisions %}
+  {% include archive-single.html %}
 {% endfor %}
