@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* March - August 2026: Research visit to Kapteyn Astronomical Institute
+  * Kapteyn Astronomical Institute, University of Groningen
+  * Duties includes: Work on Euclid galaxies spectra
+  * Supervisor: Reynier Peletier
+
 * October 2023: Research visit to Instituto de Astrofísica de Canarias
   * Instituto de Astrofísica de Canarias
   * Duties includes: Work on the SMARTY project
