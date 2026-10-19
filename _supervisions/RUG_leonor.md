@@ -4,7 +4,7 @@ collection: supervisions
 type: "Bachelor Thesis"
 permalink: /supervisions/RUG_leonor
 venue: "Kapteyn Astronomical Institute, University of Groningen"
-date: 2026-01-01
+date: 2026-04-20
 location: "Groningen, The Netherlands"
 ---
 
