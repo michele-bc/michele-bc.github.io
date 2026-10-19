@@ -1,5 +1,5 @@
 ---
-title: "Participating in the outreach project 'Do Telescópio à Descoberta'"
+title: "Participated in the outreach project 'Do Telescópio à Descoberta'"
 collection: outreach
 type: "Outreach"
 permalink: /outreach/2025_DoTelescopioAdescoberta
