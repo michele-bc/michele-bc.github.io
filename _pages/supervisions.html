@@ -5,15 +5,22 @@ permalink: /supervisions/
 author_profile: true
 ---
 
-<style>
-  /* Esconde a linha que exibe "Published" na listagem de supervisões */
-  .page__date, .archive__item-excerpt + p {
-    display: none !important;
-  }
-</style>
+<div class="supervisions-list">
+  {% for post in site.supervisions %}
+    <article class="archive__item" style="margin-bottom: 2.5em;">
+      <h2 class="archive__item-title" style="font-size: 1.25em; margin-bottom: 0.3em;">
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+      
+      <p style="margin: 0 0 0.5em 0; font-size: 0.9em; color: #666; font-style: italic;">
+        {% if post.type %}{{ post.type }}{% endif %}
+        {% if post.venue %} &bull; {{ post.venue }}{% endif %}
+      </p>
 
-{% include base_path %}
-
-{% for post in site.supervisions %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+      <div class="archive__item-excerpt" style="font-size: 0.95em; line-height: 1.6;">
+        {{ post.content }}
+      </div>
+    </article>
+    <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 2em 0;" />
+  {% endfor %}
+</div>
