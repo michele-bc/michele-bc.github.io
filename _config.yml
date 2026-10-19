@@ -218,6 +218,9 @@ collections:
   schools:
     output: true
     permalink: /:collection/:path/
+  supervisions:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
